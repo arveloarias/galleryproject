@@ -12,17 +12,17 @@
     "title": "Food Menu",
     "description": "Lorem ipsum dolor sit amet consectetur ",
     "imageSrc":{
-        "0": "img/foodmenu/food1.jpg",
-        "1": "img/foodmenu/food2.jpg",
-        "2": "img/foodmenu/food3.jpg",
-        "3": "img/foodmenu/food3.jpg"
+        "0": "https://www.bing.com/images/search?view=detailV2&ccid=lvWWGo0c&id=0C8C2924964D33B76885FE98A6339B46BEB12C22&thid=OIP.lvWWGo0cYd78jn0reFPivwHaE8&mediaurl=https%3a%2f%2fimages.pexels.com%2fphotos%2f34140%2fpexels-photo.jpg%3fcs%3dsrgb%26dl%3dblogging-business-coding-34140.jpg%26fm%3djpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.96f5961a8d1c61defc8e7d2b7853e2bf%3frik%3dIiyxvkabM6aY%252fg%26pid%3dImgRaw%26r%3d0&exph=3648&expw=5472&q=free+images+website&simid=608028784032032079&FORM=IRPRST&ck=5A6F32E6A98CD256E4A9B45328C76654&selectedIndex=2",
+        "1": "https://th.bing.com/th/id/OIP.BQBogDMpbJ5rBcjGr5G63gHaEK?w=269&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "2": "https://www.bing.com/images/search?view=detailV2&ccid=s1MvxCJg&id=81B592CF92FF2A9212741B0CA29075BE952F803D&thid=OIP.s1MvxCJgo77ijjC_LkZxXAHaEo&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f000%2f271%2f024%2foriginal%2fvector-web-development-web-banner.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b3532fc42260a3bee28e30bf2e46715c%3frik%3dPYAvlb51kKIMGw%26pid%3dImgRaw%26r%3d0&exph=3906&expw=6250&q=free+images+website&simid=608025756091033584&FORM=IRPRST&ck=4743069898550940C3D4C9AD7143D148&selectedIndex=17",
+        "3": "https://th.bing.com/th/id/OIP.L-H_eHsdvhugMmZLvqzeLQHaFj?w=214&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
       }},
     {
       "id": 3,
       "title": "All together",
       "description": "Lorem ipsum dolor sit ",
       "imageSrc": {
-        "0" : "img/alltogether/alltoguether1.jpg",
+        "0" : "https://www.bing.com/images/search?view=detailV2&ccid=8IDsFtMj&id=62D03E7E94C39211B68E40C434EBB8EF44CCDC0F&thid=OIP.8IDsFtMj48TA5I8yh-0mfwHaEc&mediaurl=https%3a%2f%2fwww.bittbox.com%2fwp-content%2fuploads%2f2017%2f02%2fresponsive-website-designs.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f080ec16d323e3c4c0e48f3287ed267f%3frik%3dD9zMRO%252b46zTEQA%26pid%3dImgRaw%26r%3d0&exph=600&expw=1000&q=free+images+website&simid=608006261237837251&FORM=IRPRST&ck=9027F5FD758B44FEB4274ACC9E915C33&selectedIndex=9",
         "1" : "img/alltogether/alltoguether2.jpg",
         "2" : "img/alltogether/alltoguether3.jpg"
       }},
@@ -31,9 +31,9 @@
       "title": "Illustrator",
       "description": "Lorem ipsum dolor sit amet c",
       "imageSrc": {
-        "0" : "img/ilustrator/miltha.jpg",
-        "1" : "img/ilustrator/detodoestilo.jpg",
-        "2" : "img/ilustrator/elefant.jpg"
+        "0" : "https://th.bing.com/th/id/OIP.UrHXRiCDhsdKX90PRcByaAHaGV?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "1" : "https://th.bing.com/th/id/OIP.a8I3-N_JY1jPb2Kzwr4iHAHaEo?w=243&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "2" : "https://th.bing.com/th/id/OIP.dZyAAPy-pwuZk9m0KRL4ZwHaHa?w=151&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
       }}
   ]
 }
