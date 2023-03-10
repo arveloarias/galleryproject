@@ -3,46 +3,37 @@
     {
       "id": 1,
       "title": "Sherlock",
-      "description": "LoremLorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores? ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores?",
+      "description": "LoremLorem ipsum dolor sit amet ",
       "imageSrc": {
-
-        "0": "https://media.istockphoto.com/id/1307162575/es/foto/wifi-inal%C3%A1mbrico-para-trabajos-remotos-en-bar-sal%C3%B3n-del-aeropuerto-vest%C3%ADbulo-del-hotel-o.jpg?s=1024x1024&w=is&k=20&c=1lNFXhuFUvE_V-8yRCW_6uULXtkth318fFonAyMniRw=",
-        "1": "https://media.istockphoto.com/id/1357767557/photo/search-find-web-online-technology-internet-website-concept.jpg?s=1024x1024&w=is&k=20&c=d8KEYO6we6xeZavYQZx_lavvme8Pr4AdAvNWoETiu7I=",
-        "2": "https://media.istockphoto.com/id/1398473177/photo/questionnaire-with-checkboxes-filling-survey-form-online-answer-questions.jpg?s=1024x1024&w=is&k=20&c=A38N141knXQRDuPUZCsj_dIKkJa-pnsT_lz3QK3_6n4=",
-      
+        "0" : "img/sherlock/sherlock.jpg"
       }},
     {
     "id": 2,
     "title": "Food Menu",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores?reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores?",
+    "description": "Lorem ipsum dolor sit amet consectetur ",
     "imageSrc":{
-        "0": "https://media.istockphoto.com/id/1307162575/es/foto/wifi-inal%C3%A1mbrico-para-trabajos-remotos-en-bar-sal%C3%B3n-del-aeropuerto-vest%C3%ADbulo-del-hotel-o.jpg?s=1024x1024&w=is&k=20&c=1lNFXhuFUvE_V-8yRCW_6uULXtkth318fFonAyMniRw=",
-        "1": "https://media.istockphoto.com/id/1357767557/photo/search-find-web-online-technology-internet-website-concept.jpg?s=1024x1024&w=is&k=20&c=d8KEYO6we6xeZavYQZx_lavvme8Pr4AdAvNWoETiu7I=",
-        "2": "https://media.istockphoto.com/id/1398473177/photo/questionnaire-with-checkboxes-filling-survey-form-online-answer-questions.jpg?s=1024x1024&w=is&k=20&c=A38N141knXQRDuPUZCsj_dIKkJa-pnsT_lz3QK3_6n4=",
-        "3": "https://media.istockphoto.com/id/1402139820/photo/unrecognizable-person-looks-for-home-using-mobile-app.jpg?s=1024x1024&w=is&k=20&c=vR8FJVMZ9s5-szgyTQZi7hBgxT51wRT48qjtGz3Q9Hk="
+        "0": "img/foodmenu/food1.jpg",
+        "1": "img/foodmenu/food2.jpg",
+        "2": "img/foodmenu/food3.jpg",
+        "3": "img/foodmenu/food3.jpg"
       }},
     {
       "id": 3,
       "title": "All together",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores?",
+      "description": "Lorem ipsum dolor sit ",
       "imageSrc": {
-       
-        "0": "https://media.istockphoto.com/id/1307162575/es/foto/wifi-inal%C3%A1mbrico-para-trabajos-remotos-en-bar-sal%C3%B3n-del-aeropuerto-vest%C3%ADbulo-del-hotel-o.jpg?s=1024x1024&w=is&k=20&c=1lNFXhuFUvE_V-8yRCW_6uULXtkth318fFonAyMniRw=",
-        "1": "https://media.istockphoto.com/id/1357767557/photo/search-find-web-online-technology-internet-website-concept.jpg?s=1024x1024&w=is&k=20&c=d8KEYO6we6xeZavYQZx_lavvme8Pr4AdAvNWoETiu7I=",
-        "2": "https://media.istockphoto.com/id/1398473177/photo/questionnaire-with-checkboxes-filling-survey-form-online-answer-questions.jpg?s=1024x1024&w=is&k=20&c=A38N141knXQRDuPUZCsj_dIKkJa-pnsT_lz3QK3_6n4=",
-        "3": "https://media.istockphoto.com/id/1402139820/photo/unrecognizable-person-looks-for-home-using-mobile-app.jpg?s=1024x1024&w=is&k=20&c=vR8FJVMZ9s5-szgyTQZi7hBgxT51wRT48qjtGz3Q9Hk="
-      },
+        "0" : "img/alltogether/alltoguether1.jpg",
+        "1" : "img/alltogether/alltoguether2.jpg",
+        "2" : "img/alltogether/alltoguether3.jpg"
+      }},
     {
       "id": 4,
       "title": "Illustrator",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quod quia. Sapiente reiciendis distinctio eos sunt eveniet commodi atque deleniti iste sint ipsa, dolorum cum asperiores voluptates ea corrupti nihil ad. Numquam esse enim, perferendis quidem non ea dolore asperiores?",
+      "description": "Lorem ipsum dolor sit amet c",
       "imageSrc": {
-
-        "0": "https://media.istockphoto.com/id/1307162575/es/foto/wifi-inal%C3%A1mbrico-para-trabajos-remotos-en-bar-sal%C3%B3n-del-aeropuerto-vest%C3%ADbulo-del-hotel-o.jpg?s=1024x1024&w=is&k=20&c=1lNFXhuFUvE_V-8yRCW_6uULXtkth318fFonAyMniRw=",
-        "1": "https://media.istockphoto.com/id/1357767557/photo/search-find-web-online-technology-internet-website-concept.jpg?s=1024x1024&w=is&k=20&c=d8KEYO6we6xeZavYQZx_lavvme8Pr4AdAvNWoETiu7I=",
-        "2": "https://media.istockphoto.com/id/1398473177/photo/questionnaire-with-checkboxes-filling-survey-form-online-answer-questions.jpg?s=1024x1024&w=is&k=20&c=A38N141knXQRDuPUZCsj_dIKkJa-pnsT_lz3QK3_6n4=",
-        "3": "https://media.istockphoto.com/id/1402139820/photo/unrecognizable-person-looks-for-home-using-mobile-app.jpg?s=1024x1024&w=is&k=20&c=vR8FJVMZ9s5-szgyTQZi7hBgxT51wRT48qjtGz3Q9Hk="
-      
+        "0" : "img/ilustrator/miltha.jpg",
+        "1" : "img/ilustrator/detodoestilo.jpg",
+        "2" : "img/ilustrator/elefant.jpg"
       }}
   ]
 }
